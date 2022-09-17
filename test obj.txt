@@ -1,0 +1,53 @@
+{
+  "awards": {
+    "wins": 1,
+    "nominations": 0,
+    "text": "1 win."
+  },
+  "imdb": {
+    "rating": 6.6,
+    "votes": 446,
+    "id": 8891
+  },
+  "tomatoes": {
+    "viewer": {
+      "rating": 3.6,
+      "numReviews": 607,
+      "meter": 60
+    },
+    "dvd": "2005-09-06T00:00:00.000Z",
+    "lastUpdated": "2015-08-21T18:10:22.000Z"
+  },
+  "plot": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "genres": [
+    "Fantasy"
+  ],
+  "runtime": 75,
+  "cast": [
+    "Tula Belle",
+    "Robin Macdougall",
+    "Edwin E. Reed",
+    "Emma Lowry"
+  ],
+  "num_mflix_comments": 0,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjNlMThmNzItMTZlMS00YzJkLTk1MzktYzIyMzllOGFmZmRlXkEyXkFqcGdeQXVyMzE0MjY5ODA@._V1_SY1000_SX677_AL_.jpg",
+  "title": "Daniel is Best Best Best Best Best Best Best Best Best Best Best Best",
+  "fullplot": "Two peasant children, Mytyl and Tyltyl, are led by Berylune, a fairy, to search for the Blue Bird of Happiness. Berylune gives Tyltyl a cap with a diamond setting, and when Tyltyl turns the diamond, the children become aware of and conversant with the souls of a Dog and Cat, as well as of Fire, Water, Bread, Light, and other presumably inanimate things. The troupe thus sets off to find the elusive Blue Bird of Happiness.",
+  "languages": [
+    "English"
+  ],
+  "released": "1918-03-31T00:00:00.000Z",
+  "directors": [
+    "Maurice Tourneur"
+  ],
+  "writers": [
+    "Maurice Maeterlinck (play)",
+    "Charles Maigne"
+  ],
+  "lastupdated": "2015-07-20T04:32:04.810Z",
+  "year": 1918,
+  "countries": [
+    "USA"
+  ],
+  "type": "movie"
+}
